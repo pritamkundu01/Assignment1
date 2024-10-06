@@ -5,7 +5,7 @@
 }
 
 body{
-    background: #222 ;
+    background: #524b4b ;
     min-height: 100vh;
     margin: 0;
 }
@@ -325,7 +325,7 @@ and (min-width: 350px) {
 .project-link{
     font-size: 12px;
     line-height: 16px;
-    color:#777;
+    color:#FFF;
     margin:8px 0;
 }
 
